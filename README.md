@@ -56,4 +56,4 @@ The landing page features a dynamic 9-item digital menu, including:
 🍹 Refreshing Cool Drinks
 
 📝 License
-© 2026 Food Paradise | All Rights Reserved. Feel free to use this project to learn or build your own custom restaurant website!
+© 2026 Food Paradise | All Rights Reserved. 
